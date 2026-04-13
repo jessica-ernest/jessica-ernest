@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me
-I'm an insight-driven Data Analyst and Business Intelligence Specialist based in Abuja, Nigeria, with 2+ years of experience transforming complex data into clear, actionable insights that drive business growth.
+I'm an insight-driven Data Analyst and Business Intelligence Specialist with 3+ years of experience transforming complex data into clear, actionable insights that drive business growth.
 
 My focus is on building dashboards that executives actually use, automating reporting to save teams hours every week, and uncovering the hidden patterns in data that change business strategy.
 
