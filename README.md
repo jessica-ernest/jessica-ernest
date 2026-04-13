@@ -71,19 +71,14 @@ When I'm not working with data, I enjoy writing about analytics, exploring AI to
 
 | Project | Tools | Impact |
 |---------|-------|--------|
-| [🏠 Real Estate Sales Dashboard](https://github.com/jessica-ernest/Zoes-Cars-Optimization-Analysis-) | Power BI · DAX · Excel | $3bn sales tracked · 15hrs/month saved |
+| [🏠 Real Estate Sales Dashboard](https://github.com/jessica-ernest/Advanced-Reporting-and-Analytics-for-Guyus-Real-Estate/blob/main/README.md) | Power BI · DAX · Excel | $3bn sales tracked · 15hrs/month saved |
 | [📊 Sales Performance Dashboard](https://public.tableau.com/app/profile/jessica.ogiemwonyi/viz/salesdashboard_17208724314550/Dashboard1) | Tableau · CY vs PY Analysis | $733K analysed · Loss states identified |
-| [🏥 Smoking Health Risk Analysis](https://github.com/jessica-ernest) | Power BI · DAX · Excel | 1,000+ patients · 5 organs tracked |
+| [🏥 Smoking Health Risk Analysis](https://github.com/jessica-ernest/End--to-End-Smoking-Health-Risk-Analysis-Dashboard-Power-BI/edit/main/README.md) | Power BI · DAX · Excel | 1,000+ patients · 5 organs tracked |
 | [🚗 Zoe's Cars SQL Analysis](https://github.com/jessica-ernest/Zoes-Cars-Optimization-Analysis-) | PostgreSQL · Excel | 13 business questions answered |
-| [👗 Fashion Retail Sales Analysis](https://github.com/jessica-ernest) | SQL · Power BI · Excel | $193K · 7 countries · 20 queries |
-| [🛒 E-Commerce Dashboard](https://github.com/jessica-ernest) | Excel · Pivot Tables · Maps | $105M revenue · 22 Pivot Tables |
+| [👗 Fashion Retail Sales Analysis](https://github.com/jessica-ernest/fashion-retail-sales-sql-/blob/main/README.md) | SQL · Power BI · Excel | $193K · 7 countries · 20 queries |
+| [🛒 E-Commerce Dashboard](https://github.com/jessica-ernest/E-Commerce-Sales-Dashboard-Advanced-Excel-Pivot-Tables/blob/main/README.md) | Excel · Pivot Tables · Maps | $105M revenue · 22 Pivot Tables |
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessica-ernest&show_icons=true&theme=tokyonight" alt="Jessica's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-ernest&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ## 📫 Let's Connect
 
