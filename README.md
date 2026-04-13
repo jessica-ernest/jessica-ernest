@@ -1,7 +1,7 @@
 ## Hi there, I'm Jessica Ogiemwonyi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;2%2B+Years+Driving+Data-Driven+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;2%2+Years+Driving+Data-Driven+Decisions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@ I'm an insight-driven Data Analyst and Business Intelligence Specialist with 3+ 
 
 My focus is on building dashboards that executives actually use, automating reporting to save teams hours every week, and uncovering the hidden patterns in data that change business strategy.
 
-I've boosted campaign conversion rates by 150%, improved reporting efficiency by 80%, and increased marketing ROI by 25% — across industries including healthcare, digital marketing, retail and finance.
+I've boosted campaign conversion rates by 150%, improved reporting efficiency by 80%, and increased marketing ROI by 25% across industries including healthcare, digital marketing, retail and finance.
 
 When I'm not working with data, I enjoy writing about analytics, exploring AI tools and sharing what I learn with the data community.
 
@@ -54,14 +54,14 @@ When I'm not working with data, I enjoy writing about analytics, exploring AI to
 #### Databases & Data Warehousing
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-Intermediate-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
-  <img src="https://img.shields.io/badge/Google%20BigQuery-Beginner-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-Experienced-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
+  <img src="https://img.shields.io/badge/Google%20BigQuery-Experienced-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Experienced-45B7D1?style=flat" alt="Predictive Modeling">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development">
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing">
   <img src="https://img.shields.io/badge/Data%20Storytelling-Expert-9B59B6?style=flat" alt="Data Storytelling">
