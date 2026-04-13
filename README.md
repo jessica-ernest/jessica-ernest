@@ -7,7 +7,7 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/jessica-ogiemwonyi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://medium.com/@jessicaogie"><img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?style=for-the-badge&logo=medium"></a>
-  <a href="https://x.com/_jessy_xx?s=21&t=4tYATj4cGxYkn73ZXvpYaw"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="https://x.com/jessy_xls?s=21"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
   <a href="mailto:jessicaogie46@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -86,7 +86,7 @@ I'm always open to new opportunities, collaborations and conversations about dat
 
 - 💼 **LinkedIn:** [jessica-ogiemwonyi](http://www.linkedin.com/in/jessica-ogiemwonyi)
 - ✍️ **Medium:** [@jessicaogie](https://medium.com/@jessicaogie)
-- 🐦 **Twitter:** [@_jessy_xx](https://x.com/_jessy_xx?s=21&t=4tYATj4cGxYkn73ZXvpYaw)
+- 🐦 **Twitter:** [@_jessy_xx](https://x.com/jessy_xls?s=21)
 - 📧 **Email:** jessicaogie46@gmail.com
 - 🌐 **Portfolio:** [jessica-ernest.vercel.app](https://jessica-ernest.vercel.app/)
 
