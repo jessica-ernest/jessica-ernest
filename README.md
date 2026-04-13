@@ -92,5 +92,5 @@ I'm always open to new opportunities, collaborations and conversations about dat
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jessica-ernest&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jessica-ernest&color=ff69b4&style=flat" alt="Profile Views" />
 </div>
