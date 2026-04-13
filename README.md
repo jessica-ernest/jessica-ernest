@@ -1,62 +1,101 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Jessica Ogiemwonyi 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;2%2B+Years+Driving+Data-Driven+Decisions" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="http://www.linkedin.com/in/jessica-ogiemwonyi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://medium.com/@jessicaogie"><img src="https://img.shields.io/badge/Medium-Read_My_Articles-black?style=for-the-badge&logo=medium"></a>
+  <a href="https://x.com/_jessy_xx?s=21&t=4tYATj4cGxYkn73ZXvpYaw"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
+  <a href="mailto:jessicaogie46@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 About Me
+I'm an insight-driven Data Analyst and Business Intelligence Specialist based in Abuja, Nigeria, with 2+ years of experience transforming complex data into clear, actionable insights that drive business growth.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building dashboards that executives actually use, automating reporting to save teams hours every week, and uncovering the hidden patterns in data that change business strategy.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I've boosted campaign conversion rates by 150%, improved reporting efficiency by 80%, and increased marketing ROI by 25% — across industries including healthcare, digital marketing, retail and finance.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+When I'm not working with data, I enjoy writing about analytics, exploring AI tools and sharing what I learn with the data community.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+### [🏆 Check Out My Full Portfolio Website](https://jessica-ernest.vercel.app/)
 
-## 🌱 Currently Learning 
+## 🔭 What I'm Currently Working On
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Healthcare Analytics Dashboard:** End-to-end Power BI dashboard analyzing smoking health risk across 1,000+ patients with dynamic organ visuals
+- **E-Commerce Sales Dashboard:** Advanced Excel dashboard using 22 Pivot Tables tracking $105M revenue across 7 divisions
+- **Data Analytics Content:** Writing articles on data analysis, BI and career tips on Medium
+
+## 🌱 Currently Learning
+
+- Advanced machine learning techniques with Scikit-learn and TensorFlow
+- Cloud data warehousing with Google BigQuery
+- Advanced DAX patterns for complex Power BI calculations
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="DAX">
+</p>
+
+#### Databases & Data Warehousing
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-Intermediate-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
+  <img src="https://img.shields.io/badge/Google%20BigQuery-Beginner-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling">
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Expert-9B59B6?style=flat" alt="Data Storytelling">
 </p>
+
+## 📂 Featured Projects
+
+| Project | Tools | Impact |
+|---------|-------|--------|
+| [🏠 Real Estate Sales Dashboard](https://github.com/jessica-ernest/Zoes-Cars-Optimization-Analysis-) | Power BI · DAX · Excel | $3bn sales tracked · 15hrs/month saved |
+| [📊 Sales Performance Dashboard](https://public.tableau.com/app/profile/jessica.ogiemwonyi/viz/salesdashboard_17208724314550/Dashboard1) | Tableau · CY vs PY Analysis | $733K analysed · Loss states identified |
+| [🏥 Smoking Health Risk Analysis](https://github.com/jessica-ernest) | Power BI · DAX · Excel | 1,000+ patients · 5 organs tracked |
+| [🚗 Zoe's Cars SQL Analysis](https://github.com/jessica-ernest/Zoes-Cars-Optimization-Analysis-) | PostgreSQL · Excel | 13 business questions answered |
+| [👗 Fashion Retail Sales Analysis](https://github.com/jessica-ernest) | SQL · Power BI · Excel | $193K · 7 countries · 20 queries |
+| [🛒 E-Commerce Dashboard](https://github.com/jessica-ernest) | Excel · Pivot Tables · Maps | $105M revenue · 22 Pivot Tables |
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jessica-ernest&show_icons=true&theme=tokyonight" alt="Jessica's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-ernest&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 📫 Let's Connect
+
+I'm always open to new opportunities, collaborations and conversations about data.
+
+- 💼 **LinkedIn:** [jessica-ogiemwonyi](http://www.linkedin.com/in/jessica-ogiemwonyi)
+- ✍️ **Medium:** [@jessicaogie](https://medium.com/@jessicaogie)
+- 🐦 **Twitter:** [@_jessy_xx](https://x.com/_jessy_xx?s=21&t=4tYATj4cGxYkn73ZXvpYaw)
+- 📧 **Email:** jessicaogie46@gmail.com
+- 🌐 **Portfolio:** [jessica-ernest.vercel.app](https://jessica-ernest.vercel.app/)
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jessica-ernest&color=blue&style=flat" alt="Profile Views" />
+</div>
