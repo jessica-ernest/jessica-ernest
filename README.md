@@ -1,7 +1,7 @@
 ## Hi there, I'm Jessica Ogiemwonyi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;2+Years+Driving+Data-Driven+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau; 3+Years+Driving+Data-Driven+Decisions" alt="Typing SVG" />
 </div>
 
 <p align="center">
