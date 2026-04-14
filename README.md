@@ -20,7 +20,7 @@ I've boosted campaign conversion rates by 150%, improved reporting efficiency by
 
 When I'm not working with data, I enjoy writing about analytics, exploring AI tools and sharing what I learn with the data community.
 
-### [🏆 Check Out My Full Portfolio Website](https://jessica-ernest.vercel.app/)
+### [🏆 Check Out My Full Portfolio Website](jessica-o-portfolio.vercel.app)
 
 ## 🔭 What I'm Currently Working On
 
