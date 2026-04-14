@@ -88,7 +88,7 @@ I'm always open to new opportunities, collaborations and conversations about dat
 - ✍️ **Medium:** [@jessicaogie](https://medium.com/@jessicaogie)
 - 🐦 **Twitter:** [@_jessy_xx](https://x.com/jessy_xls?s=21)
 - 📧 **Email:** jessicaogie46@gmail.com
-- 🌐 **Portfolio:** [jessica-ernest.vercel.app](https://jessica-ernest.vercel.app/)
+- 🌐 **Portfolio:** [jessica-ernest.vercel.app](jessica-o-portfolio.vercel.app)
 
 ---
 <div align="center">
